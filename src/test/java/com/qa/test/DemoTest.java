@@ -12,5 +12,10 @@ public class DemoTest {
 		int b=20;
 		Assert.assertEquals(a+b, 30);
 	}
+	@Test
+	public void demo()
+	{
+		System.out.println("hi");
+	}
 	
 }
